@@ -4,3 +4,4 @@ Crawler.py - crawling algorithm to crawl IMdb data. Crawler.ipynb is the python 
 imdb_rating.xlsx - the requied crawled result
 Predicting IMdb rating.ipynb is related to assignment 2, data analysis, data cleaning and model is trained
 imdb_report.docx - Step by step explanation for assignment 2
+ 
